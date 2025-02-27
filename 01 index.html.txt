@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pioneers拓荒者 - 西部主题生存服务器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        h1 {
+            color: #2e8b57;
+        }
+        p {
+            font-size: 20px;
+        }
+        img {
+            max-width: 80%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到 Pioneers拓荒者 服务器！</h1>
+    <p>IP 地址：s1i9.yt-cloud.com:25660</p>
+    <p>QQ群：1012917507</p>
+    <h2>服务器截图展示：</h2>
+    <img src="https://via.placeholder.com/800x400.png?text=服务器截图1" alt="服务器截图1">
+    <img src="https://via.placeholder.com/800x400.png?text=服务器截图2" alt="服务器截图2">
+</body>
+</html>
